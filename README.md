@@ -1,5 +1,5 @@
 # EcommerceApp
-React-Native app to build a Ecommerce app. Open Source
+React-Native app to build an Ecommerce app. Open Source
 
 It uses React Native 0.70.6. 
 
